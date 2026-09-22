@@ -1,7 +1,5 @@
 # NEXORA
 
-# NEXORA
-
 **Smart Food Quality & Safety Analyzer**
 
 **SIH Problem Statement:** SIH26034
